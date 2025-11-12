@@ -92,7 +92,7 @@ section {
         margin: .5em;
     }
 }
-article {
+.featured {
     border-top: 2px solid var(--accent-color);
     border-bottom: 2px solid var(--accent-color);
     & img {
@@ -128,4 +128,5 @@ footer {
 /* CSS class */
 .large {
 	font-size: 125%;
+
 }
